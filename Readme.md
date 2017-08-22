@@ -1,5 +1,5 @@
-KDSeries (Beta)
-===============
+KDSeries (beta version)
+=======================
 
 KDseries package for R has functions for preprocessing temporal series in order to search knowledge with associative rules.
 
@@ -19,13 +19,13 @@ Note: This is a non completed and unsupported library. In the installation proce
 References
 ----------
 
-Martínez-de-Pisón, F. J., Sanz, A., Martínez-de-Pisón, E., Jiménez, E., Conti, D.
+F.J. Martínez-de-Pisón, A. Sanz, E. Martínez-de-Pisón, E. Jiménez, D. Conti.
 Mining association rules from time series to explain failures in a hot-dip galvanizing steel line.
 Computers & Industrial Engineering 63, 22-36, 2012.
 
 How to use this package
 -----------------------
 
-There are additional documentation in '/documentation' folder.
+There is additional documentation in '/documentation' folder.
 
 (c) Dr. Francisco Javier Martinez de Pison. EDMANS Group. http:\\www.mineriadatos.com
