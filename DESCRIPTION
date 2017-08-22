@@ -1,0 +1,10 @@
+Package: KDSeries
+Version: 0.97
+Date: 2015-01-13
+Title: Knowdledge Discovery in Time Series package
+Author: Francisco Javier Martinez de Pison Ascacibar <fjmartin@u nirioja.es>, Manuel Castejon Limas <manuel.castejon@ unileon.es>, Alpha V. Pernia Espinoza <alpha.pernia@ unirioja.es>, Joaquin B. Ordieres Mere <jbmere@unirioja.es>, Eliseo P. Vergara Gonzalez <eliseo.vergara@u nirioja.es>, Fernando Alba Elias <fernando.alba@ unirioja.es>, Miguel Lodosa Ayala <miguelodosa@hotmail.com>
+Maintainer: Francisco Javier Martinez de Pison Ascacibar <fjmartin@unirioja.es>
+Description: This package has functions in order to search Asocciative Rules in Time Series
+License: GPL version 2 or newer.
+URL: http://api.unirioja.es/dm/series/KDSeries/
+Packaged: 2015-01-13 19:28:34 UTC; fjmartin
